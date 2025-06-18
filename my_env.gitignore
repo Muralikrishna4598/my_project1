@@ -1,0 +1,15 @@
+# Ignore virtual environment
+my_venv/
+
+# Django files
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Environment
+.env
+
